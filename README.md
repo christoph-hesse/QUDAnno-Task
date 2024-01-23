@@ -2,15 +2,13 @@ This repository contains the submissions for the "Question-under-Discussion Anno
 
 # Abstracts for Annotating QUDs: Desiderata and Approaches (QUDAnno)
 
-### Craige Roberts, Ohio
 ## Some Desiderata for QUD Annotation ABSTRACT
+### Craige Roberts, Ohio
 
 In linguistic discourse, interpretation is the solution of a simultaneous equation in multiple variables. One of these is the QUD. But the QUD is related to a number of other parameters of variation in discourse, often mutually constraining. Accordingly, ideally a corpus annotated for QUD would recognize the following features (inter alia) of the underlying phenomenon of relevance to a QUD: the ways in which the QUD reveals and is subsumed by the intentional structure of the discourse; the tight relationship between QUD and Focal alternatives, as reflected in the prosodic structure of utterances; the similarly tight relationship between the information structure of an utterance, including prosodic focus, and gesture; and especially the relationships between QUD and the rhetorical relations displayed between utterances. Similarly, there is a meta-level of discourse management which includes clarification questions and their responses. All of these aspects of discourse structure have themselves been investigated in annotation systems. Even if one’s purview is more narrow, I strongly suspect that a given annotated corpus will ultimately prove to be more useful if these other factors are taken into account in designing the annotation procedure.
 
-
-Arndt Riester, U Bielefeld
-
-Recent specifications regarding QUD annotation
+## Recent specifications regarding QUD annotation
+### Arndt Riester, U Bielefeld
 
 Analysing and annotating written discourse in terms of pragmatic properties is a challenging task, if the result is not to be arbitrary, but is to meet recognised standards of inter-annotator agreement. In this talk, I will address some recent developments in the application of the QUD-tree method (Riester et al. 2018), which seeks to analyse text with regard to both information structure and topical organization, by enhancing it with implicit questions under discussion. Information-structural principles of givenness and contrast can account for large parts of discourse structure, although they sometimes lead to conflicting predictions, which I will comment on. Information-structure-related QUDs may have their limits when two sections of text are linked primarily via non-literal interpretation or world knowledge. In such cases, the formulation of QUDs can benefit from reasoning with coherence relations. I will furthermore specify the process of information-structural discourse segmentation, which postulates finer-grained discourse units than, for instance, Rhetorical Structure Theory (Mann & Thompson 1988), especially with regard to sub-clausal coordination and adjuncts. Lastly, I will present the handling of so-called cataphoric QUDs, which come into play in cases where — in RST terms — a satellite precedes a nucleus.
 Christoph Hesse, Ralf Klabunde, Anton Benz, ZAS & U Bochum
