@@ -1,0 +1,190 @@
+Q0: {What is the way things are?}
+>Q1: {What does Susie do?}
+>>Q1.1: {What does Susie do first?}
+>>>A1.1a: Susie lifts the lid of the abandoned teapot 
+>>>A1.1b: and swirls the water. 
+>>>Q1.1.1: {What happens when Susie swirls the water?}
+>>>>A1.1.1: The teabag sloshes against the sides. 
+>>>Q1.1.2: {What is the tea like?}
+>>>>A1.1.2: The tea is cold and bitter, 
+>>>Q1.1.3: {Does Susie care about the tea being cold and bitter?}
+>>>>A1.1.3: but Susie doesn't mind 
+>>>Q1.1.4: {Why does Susie not mind?}
+>>>>A1.1.4: because her landlady, Mrs Simpson, normally reuses tea bags. 
+>>>Q1.1.5: {What does the tea usually taste like?}
+>>>>A1.1.5: Usually, by the time Susie gets home, the tea mostly tastes of chlorine. 
+>>Q1.2: {What does Susie do second?}
+>>>A1.2a: As she checks Mrs Simpson's calendar,
+>>>A1.2b: Susie rubs the place where the elastic cap from work scrunched all day. 
+>>>Q1.2.1: {What does Susie see in Mrs Simpson's calendar [for today]?}
+>>>>A1.2.1: A play. 
+>>>Q1.2.2: {How does Susie's skin [that was under the elastic cap all day] feel like?}
+>>>>A1.2.2: The skin feels puckered and soft, like white and wrinkly fingertips in the bath. 
+>>>>Q1.2.2.1: {What does Susie associate with white and wrinkly fingertips in the bath?}
+>>>>>A1.2.2.1: Her mother used to read beside the clawfoot bathtub her father imported from England. 
+>>>>Q1.2.2.2: {What would Susie do while her mother read her beside the bathtub?}
+>>>>>A1.2.2.2: Susie—who wasn't a Susie at all then—would tuck her chin over the edge of the tub and listen. 
+>>>>Q1.2.2.3: {What would happen to Susie in the tub?}
+>>>>>A1.2.2.3a: The water would go cold. 
+>>>>>A1.2.2.3b: Her skin would loose and crinkle.
+>>>Q1.2.3: {Why is the cold tea not made with reused tea bags?}
+>>>>A1.2.3: Mrs Simpson only makes fresh tea for Mr Johnson next door.
+>>>Q1.2.4: {What do the cups look like?}
+>>>>A1.2.4: One cup still contains a moss-smoke slick of whiskey. 
+>>>Q1.2.5: {What does Susie do to the whiskey cup?}
+>>>>A1.2.5: Susie wipes the rim of the cup with her sleeve
+>>>Q1.2.6: {What does Susie do with the cup she wiped?}
+>>>>A1.2.6: then pours herself some tea. 
+>>>Q1.2.7: {What about the whiskey in the cup she poured tea into?}
+>>>>A1.2.7: The whiskey is too dilute to be warm 
+>>>Q1.2.8: {What are the effects of the too diluted whiskey?}
+>>>>A1.2.8: but it's nice to know it's there. 
+>>>Q1.2.9: {What does Susie see [while drinking the tea]?}
+>>>>A1.2.9: In the kitchen window, she sees the red elastic mark below her hairline. 
+>>>Q1.2.10: {How does Susie feel [about her reflection]?}
+>>>>A1.2.10a: She suppresses a sigh 
+>>>>A1.2.10b: and the air sits heavy in her chest. 
+>>>Q1.2.11: {What is Susie's ability to deal with negative things [like the air sitting heavy in her chest]?}
+>>>>A1.2.11: Susie has a knack for ignoring discomfit. 
+>>>Q1.2.12: {What are the benefits of Susie's knack for ignoring discomfit?}
+>>>>A1.2.12: It comes in handy at the factory. 
+>>>Q1.2.13: {How does it come in handy at the factory?}
+>>>>Q1.2.13.1: {What was the discomfiting situation at the factory?}
+>>>>>A1.2.13.1: She felt an itch that morning 
+>>>>Q1.2.13.2: {How did she handle the discomfiting situation at the factory?}
+>>>>>A1.2.13.2: but didn't scratch it until after her shift had ended. 
+>>>Q1.2.14: {What [discomfiting thing] does Susie do at the factory?}
+>>>>A1.12.15: She scrubs her face pink before each shift. 
+>>>Q1.2.16: {Why does Susie scrub her face pink?}
+>>>>A1.12.16: A single flake of dead skin can ruin a microchip.
+>>>Q1.2.17: {Why is scrubbing her face an issue for Susie?}
+>>>>A1.2.17a: But the factory is also vacuum-dry 
+>>>>A1.2.17b: and she has to moisturise often. 
+>>>Q1.2.18: {Why is moisturizing often an issue?}
+>>>>A1.2.18: She can only afford sunflower oil. 
+>>>Q1.2.19: {Why is the sunflower oil an issue?}
+>>>>A1.2.19: For the whole day, she breathes the bitter staleness of cooking oil trapped behind the mask. 
+>>>Q1.2.20: {What does breathing in the bitter staleness do to her?}
+>>>>A1.2.20a: Her tongue is always wool. 
+>>>>A1.2.20b: In the dust-free factory, her mouth fills with the rat-grey feel of it. 
+>>>Q1.2.21: {What does Susie's mouth do now?}
+>>>>A1.2.21: She swallows the tea. 
+>>Q1.3: {Does Susie have time to do something else?}
+>>>A1.3: Even if it's a matinee, Mr Johnson will insist on dinner. 
+>>>Q1.3.1: {What will Mrs. Simpson do at dinner?}
+>>>>A1.3.1: Mrs Simpson will pay.
+>>Q1.4: {What does Susie do third [with the time she has]?}
+>>>A1.4: Susie climbs the stairs to Mrs Simpson's room 
+>>>Q1.4.1: {What does Susie do at Mrs. Simpson's room?}?
+>>>>A1.4.1: and tries the door. 
+>>>Q1.4.2: {What is the state of the door she tries?}
+>>>>A1.4.2: It's locked. 
+>>>Q1.4.3: {What can Susie do about the locked door?}
+>>>>A1.4.3: In the shower room Susie shares with the taxi driver she's never met, she finds hairpins strewn around the sink. 
+>>>Q1.4.4: {What does Susie surmise about the hairpins she finds strewn around the sink?}
+>>>>A1.4.4: She's not sure if they are Mrs Simpson's or if the taxi driver has female guests. 
+>>>>Q1.4.4.1: {Could the taxi driver have female guests?}
+>>>>>A1.4.4.1: Guests aren't allowed, of course, 
+>>>>Q1.4.4.2: {Would the taxi driver still have guests?}
+>>>>>A1.4.4.2: but Susie doesn't know enough about the taxi driver to know if he's the type to flaunt the rules.
+>>>Q1.4.5: {What does Susie do about the locked door to Mrs Simpson's room?}
+>>>>A1.4.5: She picks the lock to Mrs Simpson's room. 
+>>>Q1.4.6: {Has Susie been in the room before?}
+>>>>A1.4.6: Susie's in there every week to clean, 
+>>>Q1.4.7: {Under which circumstances has Susie been in the room before?}
+>>>>A1.4.7: but only under Mrs Simpson's watchful eye. 
+>>>Q1.4.8: {Why has Susie been in the room only under supervision?}
+>>>>A1.4.8: Mrs Simpson doesn't trust people. 
+>>>Q1.4.9: {Which kinds of people doesn't Mrs Simpson trust?}
+>>>>A1.4.9: She especially doesn't trust immigrants. 
+>>>Q1.4.10: {What does Susie think about Mrs Simpson's distrust of immigrants?}
+>>>>A1.4.10: Susie wonders why Mrs Simpson decided to live with two 
+>>>Q1.4.11: {How does Susie know Mrs Simpson lives with two immigrants?}
+>>>>A1.4.11: (Susie knows the taxi driver is an immigrant 
+>>>Q1.4.12: {How does Susie know the taxi driver is an immigrant?}
+>>>>A1.4.12: because Mrs Simpson often says: ‘Oh, I suppose you two are exceptions to the rule', 
+>>>Q1.4.13: {Which rule does Mrs Simpson refer to?}
+>>>>A1.4.13: the rule being that immigrants impact everything in Mrs Simpson's life and society and the country negatively). 
+>>>Q1.4.14: {What does Susie think is the real reason Mrs Simpson decided to live with two immigrants?}
+>>>>Q1.4.14.1: {What are the conditions of the rental rooms?}
+>>>>>A1.4.14.1: Susie suspects it has something to do with the small rooms and the black mould that spots the wallpaper. 
+>>>>Q1.4.14.2: {What are the additional arrangements?}
+>>>>>Q1.4.14.2.1 {Who did Mrs Simpson look for in the interview for the room?}
+>>>>>>A1.4.14.2.1: Also, in her interview for the room, Mrs Simpson clearly stated she was looking for someone who works during the day. 
+>>>>>Q1.4.14.2.2: {Why was Mrs Simpson looking for someone who worked during the day?}
+>>>>>>A1.4.14.2.2a: She already had someone who worked during the night. 
+>>>>>>A1.4.14.2.2b: If she fell and broke her hip at midnight, she needed to know she could rely on the person to be in. 
+>>>>Q1.4.14.3: {What does Susie think about these additional arrangements [with regard to potential renters]?}
+>>>>>A1.4.14.3: Susie thinks this sort of responsibility might put people off.
+>>>Q1.4.15: {What is Mrs Simpson's room like?}
+>>>>A1.4.15a: Like the factory, Mrs Simpson's room tries hard to be dust-free and clean,
+>>>>A1.4.15b: but it smells of urine. 
+>>>Q1.4.16: {Why does Mrs Simpson's room smell like urin?}
+>>>>A1.4.16: Susie suspects Mrs Simpson wets the bed and doesn't know. 
+>>>Q1.4.17: {What about Susie's bladder?}
+>>>>A1.4.17: Susie can go a whole twelve-hour shift without the bathroom. 
+>>>Q1.4.18: {What do the other workers do when they have to urinate?}
+>>>>A1.4.18: Some of the others use plastic bottles under the conveyor belt and inside their suits. 
+>>>Q1.4.19: {Why do the others use plastic bottles?}
+>>>>Q1.4.19.1: {What is the company policy for bathroom breaks?}
+>>>>>A1.4.19.1: The company allows for five-minute breaks every three hours, 
+>>>>Q1.4.19.2: {Why do the others use bottles despite the five-minute breaks?}
+>>>>>A1.4.19.2: but it takes longer than that just to come back through decontamination.
+>>Q1.5: {What does Susie do fourth?}
+>>>A1.5: Susie hangs her towel on the radiator, curling her fingers around the warm bars. 
+>>>Q1.5.1: {What else is in the bathroom?}
+>>>>A1.5.1a: Along the shelves are glass jars of coloured salts,
+>>>>A1.5.1b: and powders,
+>>>>A1.5.1c: and liquids. 
+>>>Q1.5.2: {What does Susie do with the jars?}
+>>>>A1.5.2: She opens a jar and inhales. 
+>>>Q1.5.3: {What do the contents of the jar smell like?}
+>>>>A1.5.3: Lavender. 
+>>>Q1.5.4: {What does the smell remind Susie of?}
+>>>>A1.5.4: She remembers her mother's long dark hair, the thin stripes of grey. 
+>>>Q1.5.5: {What do the contents of the jar do [once she took them out]?}
+>>>>A1.5.6: The flat crystals dissolve into oil that disappears in her dry palms. 
+>>>Q1.5.7: {What does Susie do with the flat crystals?}
+>>>>A1.5.7: She sprinkles some into the water. 
+>>>Q1.5.8: {How many crystals are "some"?}
+>>>>A1.5.8: Not as many as she would like, but some. 
+>>>Q1.5.9: {What else does Susie do [to smell nice smells]?}
+>>>>A1.5.9: She presses her nose to the clean towels stacked on the shelf. 
+>>>Q1.5.10: {What do the clean towels smell like?}
+>>>>A1.5.10: Washing powder and sunshine. 
+>>>Q1.5.11: {What does Susie's own towel smell like?}
+>>>>A1.5.11: Her own towel smells of old socks and the unwashed skin scent that leaks under the door of the taxi driver's room.
+>>Q1.6: {What does Susie do fifth?}
+>>>A1.6: She waves her hands through the steam of the running tap. 
+>>>Q1.6.1: {What does [daydreaming with] the running tap remind Susie of?}
+>>>>A1.6.1: In the factory, the conveyor belts move with constant speed, greased silent. 
+>>>Q1.6.2: {What happens if Susie daydreams at the conveyor belt in the factory?}
+>>>>Q1.6.2.1: {What does Susie think when she daydreams in the factory?
+>>>>>A1.6.2.1a: If she's thinking of something else, like the seamless way her mother poured tea or her father's whiskers above her mother's delicate cups, she will think the belt has stopped. 
+>>>>>A1.6.2.1b: She will think the microchips are standing still
+>>>>Q1.6.2.2: {What does Susie hear while daydreaming at the factory?
+>>>>>A1.6.2.2a: and the only sound is her circling, oily breath.
+>>>>>A1.6.2.2b: Then she'll hear the sticky peel of a defect from further along the belt 
+>>>>Q1.6.2.3: {What happens when Susie hears the defect from further along the belt?}
+>>>>>A1.6.2.3: and she'll remember where she is.
+>>>Q1.6.3: {What does Susie do next in the bathroom?}
+>>>>A1.6.3a: She slips into the water. 
+>>>>A1.6.3b: She inhales. 
+>>>>A1.6.3c: She prepares for the lavender memory of her mother's cheek against her forehead. 
+>>>Q1.6.4: {How does the present compare to the memory of Susie's mother?}
+>>>>A1.6.4: But all she smells is chlorine and the wet-dogness of her towel. 
+>>>Q1.6.5: {How does Susie deal with the smell?}
+>>>>A1.6.5: Still, she resolves to enjoy it.
+>>>Q1.6.6: {How does Susie enjoy the bath?}
+>>>>A1.6.6: The water slinks past her skin, touches her lips. 
+>>>Q1.6.7: {What does Susie do with the water that touches her lips?}
+>>>>A1.6.7: She licks them dry. 
+>>>Q1.6.8: {What does Susie think of [as she tastes the water]?}
+>>>>A1.6.8: She imagines her mother's perfectly brewed tea. 
+>>Q1.7: {What does Susie do sixth?}
+>>>A1.7a: She takes a deep breath. 
+>>>A1.7b: Exhales. 
+>Q2: {What will Susie do next?}
+>>A2: After, she will change Mrs Simpson's sheets, 
+>>Q2.1: {What does Susie feel about changing the sheets?}
+>>>A2.1: and hopefully, Mrs Simpson will never know.
