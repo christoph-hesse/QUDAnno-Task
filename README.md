@@ -1,10 +1,9 @@
 This repository contains the submissions for the "Question-under-Discussion Annotation Challenge (QUDAnno Challenge)" accompanying the Workshop "Annotating QUDs: Desiderata and Approaches (QUDAnno)" (organizers: Tantjana, Scheffler, Anton Benz, Christoph Hesse, Ralf Klabunde, Maurice Langner)
 
-Abstracts for Annotating QUDs: Desiderata and Approaches (QUDAnno)
+# Abstracts for Annotating QUDs: Desiderata and Approaches (QUDAnno)
 
-Craige Roberts, Ohio
-
-Some Desiderata for QUD Annotation ABSTRACT
+### Craige Roberts, Ohio
+## Some Desiderata for QUD Annotation ABSTRACT
 
 In linguistic discourse, interpretation is the solution of a simultaneous equation in multiple variables. One of these is the QUD. But the QUD is related to a number of other parameters of variation in discourse, often mutually constraining. Accordingly, ideally a corpus annotated for QUD would recognize the following features (inter alia) of the underlying phenomenon of relevance to a QUD: the ways in which the QUD reveals and is subsumed by the intentional structure of the discourse; the tight relationship between QUD and Focal alternatives, as reflected in the prosodic structure of utterances; the similarly tight relationship between the information structure of an utterance, including prosodic focus, and gesture; and especially the relationships between QUD and the rhetorical relations displayed between utterances. Similarly, there is a meta-level of discourse management which includes clarification questions and their responses. All of these aspects of discourse structure have themselves been investigated in annotation systems. Even if one’s purview is more narrow, I strongly suspect that a given annotated corpus will ultimately prove to be more useful if these other factors are taken into account in designing the annotation procedure.
 
