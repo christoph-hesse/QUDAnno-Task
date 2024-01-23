@@ -1,4 +1,6 @@
-This repository contains the submissions for the "Question-under-Discussion Annotation Challenge (QUDAnno Challenge)" accompanying the Workshop "Annotating QUDs: Desiderata and Approaches (QUDAnno)" (organizers: Tantjana, Scheffler, Anton Benz, Christoph Hesse, Ralf Klabunde, Maurice Langner)
+This repository contains the submissions for the "Question-under-Discussion Annotation Challenge (QUDAnno Challenge)" accompanying the Workshop "Annotating QUDs: Desiderata and Approaches (QUDAnno)" (organizers: Tantjana, Scheffler, Anton Benz, Christoph Hesse, Ralf Klabunde, Maurice Langner).
+
+Submissions consist in QUD trees of discourse structure represented in XML format.
 
 # Abstracts for Annotating QUDs: Desiderata and Approaches (QUDAnno)
 
