@@ -1,0 +1,1061 @@
+<ROOT>
+	<QUD string="How is the 2-series Active Tourer doing?" classification="QUD" utterance-id="1" qud-sub-id="1" rank="1" probability="0.48" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="How are the sales of the 2-series Active Tourer doing?" classification="QUD" utterance-id="1" qud-sub-id="2" rank="2" probability="0.11" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="What does BMW tell us?" classification="QUD" utterance-id="1" qud-sub-id="3" rank="3" probability="0.07" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="Have BMW ever made a people carrier?" classification="QUD" utterance-id="1" qud-sub-id="4" rank="4" probability="0.04" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="How good is the 2-series Active Tourer?" classification="QUD" utterance-id="1" qud-sub-id="5" rank="4" probability="0.04" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="how is the new BMW?" classification="QUD" utterance-id="1" qud-sub-id="6" rank="4" probability="0.04" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="how successful has this model been?" classification="QUD" utterance-id="1" qud-sub-id="7" rank="4" probability="0.04" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="How well did the 2-series active tourer do?" classification="QUD" utterance-id="1" qud-sub-id="8" rank="4" probability="0.04" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="How well has it done since it's release" classification="QUD" utterance-id="1" qud-sub-id="9" rank="4" probability="0.04" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="How well has the BMW 2-series Active Tourer been received by customers?" classification="QUD" utterance-id="1" qud-sub-id="10" rank="4" probability="0.04" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="What car is BMW going to make next?" classification="QUD" utterance-id="1" qud-sub-id="11" rank="4" probability="0.04" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="What type of car is it?" classification="QUD" utterance-id="1" qud-sub-id="12" rank="4" probability="0.04" >
+		<UNIT utterance-id="1" entropy="2.72">BMW cheerfully tells us the 2-series Active Tourer, the company’s first stab at a people carrier, is doing rather better than expected</UNIT>
+	</QUD>
+	<QUD string="How is the production line running?" classification="QUD" utterance-id="2" qud-sub-id="1" rank="1" probability="0.18" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="How many cars are being manufactured?" classification="QUD" utterance-id="2" qud-sub-id="2" rank="2" probability="0.11" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="Can BMW produce more vehicles?" classification="QUD" utterance-id="2" qud-sub-id="3" rank="3" probability="0.07" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="How busy is the production line?" classification="QUD" utterance-id="2" qud-sub-id="4" rank="3" probability="0.07" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="How fast are they being produced?" classification="QUD" utterance-id="2" qud-sub-id="5" rank="3" probability="0.07" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="How is the production going?" classification="QUD" utterance-id="2" qud-sub-id="6" rank="3" probability="0.07" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="At what capacity is the production line running?" classification="QUD" utterance-id="2" qud-sub-id="7" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="How is the people carrier doing?" classification="QUD" utterance-id="2" qud-sub-id="8" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="How is the production line handling it?" classification="QUD" utterance-id="2" qud-sub-id="9" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="How many 2-series Active Tourer has BMW sold?" classification="QUD" utterance-id="2" qud-sub-id="10" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="how many are produced each week" classification="QUD" utterance-id="2" qud-sub-id="11" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="How's the production line looking?" classification="QUD" utterance-id="2" qud-sub-id="12" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="Is the business coping with the demand?" classification="QUD" utterance-id="2" qud-sub-id="13" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="Is the production line running at 100% efficiency?" classification="QUD" utterance-id="2" qud-sub-id="14" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="Is the production running at full capacity" classification="QUD" utterance-id="2" qud-sub-id="15" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="What is the capacity of the production line?" classification="QUD" utterance-id="2" qud-sub-id="16" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="What is the demand for the product?" classification="QUD" utterance-id="2" qud-sub-id="17" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="What is the production line running at?" classification="QUD" utterance-id="2" qud-sub-id="18" rank="4" probability="0.04" >
+		<UNIT utterance-id="2" entropy="3.94">The production line’s running at full capacity</UNIT>
+	</QUD>
+	<QUD string="How long is the waiting list?" classification="QUD" utterance-id="3" qud-sub-id="1" rank="1" probability="0.4" >
+		<UNIT utterance-id="3" entropy="2.32">there’s an eight-month waiting list for petrol models</UNIT>
+	</QUD>
+	<QUD string="how long is the wait for a petrol model?" classification="QUD" utterance-id="3" qud-sub-id="2" rank="2" probability="0.3" >
+		<UNIT utterance-id="3" entropy="2.32">there’s an eight-month waiting list for petrol models</UNIT>
+	</QUD>
+	<QUD string="How in-demand are the petrol models?" classification="QUD" utterance-id="3" qud-sub-id="3" rank="3" probability="0.07" >
+		<UNIT utterance-id="3" entropy="2.32">there’s an eight-month waiting list for petrol models</UNIT>
+	</QUD>
+	<QUD string="How long will delivery take?" classification="QUD" utterance-id="3" qud-sub-id="4" rank="3" probability="0.07" >
+		<UNIT utterance-id="3" entropy="2.32">there’s an eight-month waiting list for petrol models</UNIT>
+	</QUD>
+	<QUD string="is there a waiting list?" classification="QUD" utterance-id="3" qud-sub-id="5" rank="3" probability="0.07" >
+		<UNIT utterance-id="3" entropy="2.32">there’s an eight-month waiting list for petrol models</UNIT>
+	</QUD>
+	<QUD string="Is the 2-series active tourer available?" classification="QUD" utterance-id="3" qud-sub-id="6" rank="4" probability="0.03" >
+		<UNIT utterance-id="3" entropy="2.32">there’s an eight-month waiting list for petrol models</UNIT>
+	</QUD>
+	<QUD string="Is the car in high demand" classification="QUD" utterance-id="3" qud-sub-id="7" rank="4" probability="0.03" >
+		<UNIT utterance-id="3" entropy="2.32">there’s an eight-month waiting list for petrol models</UNIT>
+	</QUD>
+	<QUD string="when are they available" classification="QUD" utterance-id="3" qud-sub-id="8" rank="4" probability="0.03" >
+		<UNIT utterance-id="3" entropy="2.32">there’s an eight-month waiting list for petrol models</UNIT>
+	</QUD>
+	<QUD string="How are sales relative to other models" classification="QUD" utterance-id="4" qud-sub-id="1" rank="1" probability="0.14" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="How does the 2-series Active Tourer compare to BMWs other models?" classification="QUD" utterance-id="4" qud-sub-id="2" rank="2" probability="0.1" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="How well is the 2-series Active Tourer selling?" classification="QUD" utterance-id="4" qud-sub-id="3" rank="2" probability="0.1" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="Is this model the best selling car for BMW?" classification="QUD" utterance-id="4" qud-sub-id="4" rank="2" probability="0.1" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="what is the best selling car?" classification="QUD" utterance-id="4" qud-sub-id="5" rank="2" probability="0.1" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="Is this a popular car?" classification="QUD" utterance-id="4" qud-sub-id="6" rank="3" probability="0.07" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="How has sales performance been this year (2015)?" classification="QUD" utterance-id="4" qud-sub-id="7" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="How has the people carrier performed since its release?" classification="QUD" utterance-id="4" qud-sub-id="8" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="how popular is the new model" classification="QUD" utterance-id="4" qud-sub-id="9" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="How quickly does the relase of this car compare to previous releases?" classification="QUD" utterance-id="4" qud-sub-id="10" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="How well has it been selling since launched?" classification="QUD" utterance-id="4" qud-sub-id="11" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="How well is it doing against other cars in the BMW range?" classification="QUD" utterance-id="4" qud-sub-id="12" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="Out of the BMW range how popular is it?" classification="QUD" utterance-id="4" qud-sub-id="13" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="What year to date is the BMW range." classification="QUD" utterance-id="4" qud-sub-id="14" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="Where does it rank in best selling BMW range" classification="QUD" utterance-id="4" qud-sub-id="15" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="Where does the car rank in terms of sales for 2015?" classification="QUD" utterance-id="4" qud-sub-id="16" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="Where does this car rank in terms of sales?" classification="QUD" utterance-id="4" qud-sub-id="17" rank="4" probability="0.03" >
+		<UNIT utterance-id="4" entropy="3.86">for the 2015 year-to-date it’s become the third best-selling car in the BMW range</UNIT>
+	</QUD>
+	<QUD string="How much more does the larger version cost?" classification="QUD" utterance-id="5" qud-sub-id="1" rank="1" probability="0.18" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="How much does the larger version of the car cost by comparison?" classification="QUD" utterance-id="5" qud-sub-id="2" rank="2" probability="0.11" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="Are there other options available?" classification="QUD" utterance-id="5" qud-sub-id="3" rank="3" probability="0.07" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="How does it differ from the active tourer" classification="QUD" utterance-id="5" qud-sub-id="4" rank="3" probability="0.07" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="Are BMW considering expanding out the 2-series range?" classification="QUD" utterance-id="5" qud-sub-id="5" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="Are there plans to release a larger version of tis model?" classification="QUD" utterance-id="5" qud-sub-id="6" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="Do they offer a seven seater version?" classification="QUD" utterance-id="5" qud-sub-id="7" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="How confident are the company about the new 7 seater?" classification="QUD" utterance-id="5" qud-sub-id="8" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="How did the company respond to the success of this model?" classification="QUD" utterance-id="5" qud-sub-id="9" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="How does this compare to the Active Tourer?" classification="QUD" utterance-id="5" qud-sub-id="10" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="How much the new model costs" classification="QUD" utterance-id="5" qud-sub-id="11" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="is it more expencive?" classification="QUD" utterance-id="5" qud-sub-id="12" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="Is there an upgraded model" classification="QUD" utterance-id="5" qud-sub-id="13" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="Is there anything similar to the 2-Series Active Tourer?" classification="QUD" utterance-id="5" qud-sub-id="14" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What are the plans to expand the line of vehicles?" classification="QUD" utterance-id="5" qud-sub-id="15" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="what configuration does it come in" classification="QUD" utterance-id="5" qud-sub-id="16" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What does the company usher?" classification="QUD" utterance-id="5" qud-sub-id="17" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What is the premium of the Gran Tourer compared to the Active Tourer?" classification="QUD" utterance-id="5" qud-sub-id="18" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What is the price of the Gran Tourer compared to the Active Tourer?" classification="QUD" utterance-id="5" qud-sub-id="19" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What's next for BMW and people carriers?" classification="QUD" utterance-id="5" qud-sub-id="20" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="4.08">So it’s with less trepidation that the company ushers in this larger seven-seater version, the 2-series Gran Tourer, at a £1700 premium over the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="How different is the BMW 2-series Gran Tourer from the Active?" classification="QUD" utterance-id="7" qud-sub-id="1" rank="1" probability="0.27" >
+		<UNIT utterance-id="6" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="what are the differences between the gran tourer and the active tourer" classification="QUD" utterance-id="7" qud-sub-id="1" rank="1" probability="0.2" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="How does it's size compare to the Active tourer?" classification="QUD" utterance-id="7" qud-sub-id="2" rank="2" probability="0.1" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="How much bigger is the Gran Tourer?" classification="QUD" utterance-id="7" qud-sub-id="3" rank="2" probability="0.1" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="what are the dimensions?" classification="QUD" utterance-id="7" qud-sub-id="4" rank="3" probability="0.07" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="What is the size of the gran tourer relative to the active?" classification="QUD" utterance-id="7" qud-sub-id="5" rank="3" probability="0.07" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="Are there any differences in the new larger series?" classification="QUD" utterance-id="7" qud-sub-id="6" rank="4" probability="0.03" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="how big is it?" classification="QUD" utterance-id="7" qud-sub-id="7" rank="4" probability="0.03" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="How do you make extra seat space in the gran tourer?" classification="QUD" utterance-id="7" qud-sub-id="8" rank="4" probability="0.03" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="how does the extra space affect the overall vehicle size?" classification="QUD" utterance-id="7" qud-sub-id="9" rank="4" probability="0.03" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="How much longer is the Gran Tourer?" classification="QUD" utterance-id="7" qud-sub-id="10" rank="4" probability="0.03" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="Is the Gran Tourer Longer that the Active Tourer?" classification="QUD" utterance-id="7" qud-sub-id="11" rank="4" probability="0.03" >
+		<UNIT utterance-id="7" entropy="3.14">To make space for the extra seats, it’s longer – by 11cm in the wheelbase and 10cm in the rear overhang – though still relatively compact overall</UNIT>
+	</QUD>
+	<QUD string="How big is it compared to a 3-series touring" classification="QUD" utterance-id="8" qud-sub-id="1" rank="1" probability="0.14" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="how big is it compared to other models?" classification="QUD" utterance-id="8" qud-sub-id="2" rank="2" probability="0.1" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="How long is the new model?" classification="QUD" utterance-id="8" qud-sub-id="3" rank="2" probability="0.1" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="How different is it compared to the 3-series Touring?" classification="QUD" utterance-id="8" qud-sub-id="4" rank="3" probability="0.07" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="Are there any other differences?" classification="QUD" utterance-id="8" qud-sub-id="5" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="How compact is the BMW 2-series Gran Tourer overall" classification="QUD" utterance-id="8" qud-sub-id="6" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="how does it compare to other models" classification="QUD" utterance-id="8" qud-sub-id="7" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="how does it compare to the 3-series tourer?" classification="QUD" utterance-id="8" qud-sub-id="8" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="How does the size of the Gran Tourer compare to other more well known cars?" classification="QUD" utterance-id="8" qud-sub-id="9" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="How short is it compared to another car?" classification="QUD" utterance-id="8" qud-sub-id="10" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="Is it smaller than a 3-series Touring?" classification="QUD" utterance-id="8" qud-sub-id="11" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="Is that the biggest one?" classification="QUD" utterance-id="8" qud-sub-id="12" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="Is this much different in size overall?" classification="QUD" utterance-id="8" qud-sub-id="13" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="It is longer or shorter than then series 2 active tourer?" classification="QUD" utterance-id="8" qud-sub-id="14" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="What is a car the Gran Tourer is shorter than?" classification="QUD" utterance-id="8" qud-sub-id="15" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="what is so different with this model?" classification="QUD" utterance-id="8" qud-sub-id="16" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="What is the length like compared to BMWs in general?" classification="QUD" utterance-id="8" qud-sub-id="17" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="what is the next biggest model?" classification="QUD" utterance-id="8" qud-sub-id="18" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="What size is the 2-series Active Tourer?" classification="QUD" utterance-id="8" qud-sub-id="19" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="What's the difference in size between the Active Tourer and the 3-series Touring?" classification="QUD" utterance-id="8" qud-sub-id="20" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="Which vehicle is longest?" classification="QUD" utterance-id="8" qud-sub-id="21" rank="4" probability="0.03" >
+		<UNIT utterance-id="8" entropy="4.19">It’s slightly shorter than a 3-series Touring, for example</UNIT>
+	</QUD>
+	<QUD string="How does it differ in height?" classification="QUD" utterance-id="9" qud-sub-id="1" rank="1" probability="0.06" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="How is the headroom?" classification="QUD" utterance-id="9" qud-sub-id="2" rank="1" probability="0.06" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="How tall is the car" classification="QUD" utterance-id="9" qud-sub-id="3" rank="1" probability="0.06" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="Why has the roofline been raised?" classification="QUD" utterance-id="9" qud-sub-id="4" rank="1" probability="0.06" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="Can everyone fit into this model?" classification="QUD" utterance-id="9" qud-sub-id="5" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="Has the roof changed to accommodate additional passengers?" classification="QUD" utterance-id="9" qud-sub-id="6" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="Have any adaptations been made to the roofline?" classification="QUD" utterance-id="9" qud-sub-id="7" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="How does the 2-series Active Tourer ensure to be comfortable for passengers?" classification="QUD" utterance-id="9" qud-sub-id="8" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="How does the new design accommodate for an extra row of seating?" classification="QUD" utterance-id="9" qud-sub-id="9" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="how has it been modified for third row passengers" classification="QUD" utterance-id="9" qud-sub-id="10" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="How has the roofline changed" classification="QUD" utterance-id="9" qud-sub-id="11" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="how high is the roofli9ne for the extra seats?" classification="QUD" utterance-id="9" qud-sub-id="12" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="How much bigger is the roofline at the rear" classification="QUD" utterance-id="9" qud-sub-id="13" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="How much roof space is there for 3rd row passengers" classification="QUD" utterance-id="9" qud-sub-id="14" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="How much the roof has been raised" classification="QUD" utterance-id="9" qud-sub-id="15" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="Is the Gran Tourer larger in any other dimensions?" classification="QUD" utterance-id="9" qud-sub-id="16" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="Is there enough space for passengers to be comfortable?" classification="QUD" utterance-id="9" qud-sub-id="17" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="Is there plenty of space?" classification="QUD" utterance-id="9" qud-sub-id="18" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="is there room for all seven passengers" classification="QUD" utterance-id="9" qud-sub-id="19" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="IS there sufficient head-room?" classification="QUD" utterance-id="9" qud-sub-id="20" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="What has been changed about the roofline" classification="QUD" utterance-id="9" qud-sub-id="21" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="What is different to the the Touring?" classification="QUD" utterance-id="9" qud-sub-id="22" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="What is the car like for the passengers in the third-row?" classification="QUD" utterance-id="9" qud-sub-id="23" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="What is the height of the roofline?" classification="QUD" utterance-id="9" qud-sub-id="24" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="What is the space like in the Gran Tourer?" classification="QUD" utterance-id="9" qud-sub-id="25" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="Which vehicle is tallest?" classification="QUD" utterance-id="9" qud-sub-id="26" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="will the third row passengers have room?" classification="QUD" utterance-id="9" qud-sub-id="27" rank="2" probability="0.03" >
+		<UNIT utterance-id="9" entropy="4.7">The roofline’s been raised by 5cm at the rear too, to clear some headroom for third-row passengers</UNIT>
+	</QUD>
+	<QUD string="What is the engine line up?" classification="QUD" utterance-id="10" qud-sub-id="1" rank="1" probability="0.27" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="Is the engine different to the active tourer?" classification="QUD" utterance-id="10" qud-sub-id="2" rank="2" probability="0.13" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What is the engine type?" classification="QUD" utterance-id="10" qud-sub-id="3" rank="2" probability="0.13" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What does the engine consist of?" classification="QUD" utterance-id="10" qud-sub-id="4" rank="3" probability="0.07" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What is the engine of the Gran Tourer?" classification="QUD" utterance-id="10" qud-sub-id="5" rank="3" probability="0.07" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="Does the engine differ in petrols and diesels?" classification="QUD" utterance-id="10" qud-sub-id="6" rank="4" probability="0.03" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="How different is the engine line up" classification="QUD" utterance-id="10" qud-sub-id="7" rank="4" probability="0.03" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="How different is the engine?" classification="QUD" utterance-id="10" qud-sub-id="8" rank="4" probability="0.03" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="How does the engine composition compare?" classification="QUD" utterance-id="10" qud-sub-id="9" rank="4" probability="0.03" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="Is the engine line up different between the two models" classification="QUD" utterance-id="10" qud-sub-id="10" rank="4" probability="0.03" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What is the engine composition of the 2-series Active Tourer?" classification="QUD" utterance-id="10" qud-sub-id="11" rank="4" probability="0.03" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What is the engine like in relation to the Active Tourer?" classification="QUD" utterance-id="10" qud-sub-id="12" rank="4" probability="0.03" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What is the engine like?" classification="QUD" utterance-id="10" qud-sub-id="13" rank="4" probability="0.03" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What type of engine line-up does the car have?" classification="QUD" utterance-id="10" qud-sub-id="14" rank="4" probability="0.03" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="Will there be a full range of engines available?" classification="QUD" utterance-id="10" qud-sub-id="15" rank="4" probability="0.03" >
+		<UNIT utterance-id="10" entropy="3.44">Engine line-up is the same mix of three- and four-cylinder petrols and diesels found in the Active Tourer</UNIT>
+	</QUD>
+	<QUD string="What are the engine specifications?" classification="QUD" utterance-id="11" qud-sub-id="1" rank="1" probability="0.3" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="what is the fuel consumption?" classification="QUD" utterance-id="11" qud-sub-id="2" rank="2" probability="0.11" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="Which is the most thrifty version?" classification="QUD" utterance-id="11" qud-sub-id="3" rank="2" probability="0.11" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="Does it cost a lot to run?" classification="QUD" utterance-id="11" qud-sub-id="4" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="How do the different engine sizes compare?" classification="QUD" utterance-id="11" qud-sub-id="5" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="How quick does it go?" classification="QUD" utterance-id="11" qud-sub-id="6" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="What about the emissions?" classification="QUD" utterance-id="11" qud-sub-id="7" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="What engine capacity does it have, linking to the emissions?" classification="QUD" utterance-id="11" qud-sub-id="8" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="What engine does it have?" classification="QUD" utterance-id="11" qud-sub-id="9" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="What is the engine set-up like" classification="QUD" utterance-id="11" qud-sub-id="10" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="What is the fuel efficiency of these models?" classification="QUD" utterance-id="11" qud-sub-id="11" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="What is the most thriftiest cylinder in the engine?" classification="QUD" utterance-id="11" qud-sub-id="12" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="What is Thriftiest?" classification="QUD" utterance-id="11" qud-sub-id="13" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="What sort of mileage does the car get?" classification="QUD" utterance-id="11" qud-sub-id="14" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="Which engine is best?" classification="QUD" utterance-id="11" qud-sub-id="15" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="Which model is the most eco friendly" classification="QUD" utterance-id="11" qud-sub-id="16" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="3.51">Thriftiest is the 1.5-litre triple-cylinder 216d, with a claimed 68.9mpg average and 108g/km CO2</UNIT>
+	</QUD>
+	<QUD string="How fast is it?" classification="QUD" utterance-id="12" qud-sub-id="1" rank="1" probability="0.07" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What are the engine specifications for best range in this model?" classification="QUD" utterance-id="12" qud-sub-id="2" rank="1" probability="0.07" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What are the engine specs for the top model?" classification="QUD" utterance-id="12" qud-sub-id="3" rank="1" probability="0.07" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What engine does the range topper have?" classification="QUD" utterance-id="12" qud-sub-id="4" rank="1" probability="0.07" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="what's the top accelaration?" classification="QUD" utterance-id="12" qud-sub-id="5" rank="1" probability="0.07" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="Are there any other versions of the car engines..?" classification="QUD" utterance-id="12" qud-sub-id="6" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="How fast can it go 0-62 mph" classification="QUD" utterance-id="12" qud-sub-id="7" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="That is the most powerfil engine in the griup?" classification="QUD" utterance-id="12" qud-sub-id="8" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What about the Range-topper?" classification="QUD" utterance-id="12" qud-sub-id="9" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="what are the performance figures" classification="QUD" utterance-id="12" qud-sub-id="10" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What is a range topper?" classification="QUD" utterance-id="12" qud-sub-id="11" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What is different between the three?" classification="QUD" utterance-id="12" qud-sub-id="12" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What is the best engine used in any of your cars?" classification="QUD" utterance-id="12" qud-sub-id="13" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What is the difference?" classification="QUD" utterance-id="12" qud-sub-id="14" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What is the dipping like of the car?" classification="QUD" utterance-id="12" qud-sub-id="15" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="what is the fastest model?" classification="QUD" utterance-id="12" qud-sub-id="16" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What is the range-topper?" classification="QUD" utterance-id="12" qud-sub-id="17" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What is the speed from 0-62mph?" classification="QUD" utterance-id="12" qud-sub-id="18" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What the range is" classification="QUD" utterance-id="12" qud-sub-id="19" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What's the best engine you can have in this vehicle?" classification="QUD" utterance-id="12" qud-sub-id="20" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="What's the priciest engine option for the Gran Tourer?" classification="QUD" utterance-id="12" qud-sub-id="21" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="Which car in the range is the best engine-wise" classification="QUD" utterance-id="12" qud-sub-id="22" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="Which is the fastest model" classification="QUD" utterance-id="12" qud-sub-id="23" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="Which is the most performant in the range?" classification="QUD" utterance-id="12" qud-sub-id="24" rank="2" probability="0.03" >
+		<UNIT utterance-id="12" entropy="4.51">Range-topper is the 2.0-litre, four-cylinder 187bhp 220d xDrive, capable of dipping under eight seconds from 0-62mph</UNIT>
+	</QUD>
+	<QUD string="Is it front wheel drive?" classification="QUD" utterance-id="13" qud-sub-id="1" rank="1" probability="0.41" >
+		<UNIT utterance-id="13" entropy="2.63">Like the Active Tourer, the Gran is front-wheel-drive</UNIT>
+	</QUD>
+	<QUD string="Does the Gran Tourer have front or rear wheel drive?" classification="QUD" utterance-id="13" qud-sub-id="2" rank="2" probability="0.17" >
+		<UNIT utterance-id="13" entropy="2.63">Like the Active Tourer, the Gran is front-wheel-drive</UNIT>
+	</QUD>
+	<QUD string="what wheel drive is it" classification="QUD" utterance-id="13" qud-sub-id="3" rank="3" probability="0.14" >
+		<UNIT utterance-id="13" entropy="2.63">Like the Active Tourer, the Gran is front-wheel-drive</UNIT>
+	</QUD>
+	<QUD string="is it front wheel, rear wheel or four wheel drive?" classification="QUD" utterance-id="13" qud-sub-id="4" rank="4" probability="0.07" >
+		<UNIT utterance-id="13" entropy="2.63">Like the Active Tourer, the Gran is front-wheel-drive</UNIT>
+	</QUD>
+	<QUD string="Are they front wheel drive" classification="QUD" utterance-id="13" qud-sub-id="5" rank="5" probability="0.03" >
+		<UNIT utterance-id="13" entropy="2.63">Like the Active Tourer, the Gran is front-wheel-drive</UNIT>
+	</QUD>
+	<QUD string="Is it a 4-wheel drive or front wheel drive" classification="QUD" utterance-id="13" qud-sub-id="6" rank="5" probability="0.03" >
+		<UNIT utterance-id="13" entropy="2.63">Like the Active Tourer, the Gran is front-wheel-drive</UNIT>
+	</QUD>
+	<QUD string="Is the Active Tourer 4 wheel drive or front wheel drive?" classification="QUD" utterance-id="13" qud-sub-id="7" rank="5" probability="0.03" >
+		<UNIT utterance-id="13" entropy="2.63">Like the Active Tourer, the Gran is front-wheel-drive</UNIT>
+	</QUD>
+	<QUD string="Is this a four wheel drive model?" classification="QUD" utterance-id="13" qud-sub-id="8" rank="5" probability="0.03" >
+		<UNIT utterance-id="13" entropy="2.63">Like the Active Tourer, the Gran is front-wheel-drive</UNIT>
+	</QUD>
+	<QUD string="Is this car 4 front-wheel-drive?" classification="QUD" utterance-id="13" qud-sub-id="9" rank="5" probability="0.03" >
+		<UNIT utterance-id="13" entropy="2.63">Like the Active Tourer, the Gran is front-wheel-drive</UNIT>
+	</QUD>
+	<QUD string="What is the Gran?" classification="QUD" utterance-id="13" qud-sub-id="10" rank="5" probability="0.03" >
+		<UNIT utterance-id="13" entropy="2.63">Like the Active Tourer, the Gran is front-wheel-drive</UNIT>
+	</QUD>
+	<QUD string="Can you get a 220d engine?" classification="QUD" utterance-id="14" qud-sub-id="1" rank="1" probability="0.07" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Does it support xdrive" classification="QUD" utterance-id="14" qud-sub-id="2" rank="1" probability="0.07" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Is front-wheel drive available for all engine types?" classification="QUD" utterance-id="14" qud-sub-id="3" rank="1" probability="0.07" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Is the 200d engine available with all models?" classification="QUD" utterance-id="14" qud-sub-id="4" rank="1" probability="0.07" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Is the 220d engine avaliable?" classification="QUD" utterance-id="14" qud-sub-id="5" rank="1" probability="0.07" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Are all models available in front wheel drive?" classification="QUD" utterance-id="14" qud-sub-id="6" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="can you have the 220d engine on any configuration?" classification="QUD" utterance-id="14" qud-sub-id="7" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="do you have a 4x4 model?" classification="QUD" utterance-id="14" qud-sub-id="8" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Does the 220d engine come as standard?" classification="QUD" utterance-id="14" qud-sub-id="9" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="How is the 220d engine available" classification="QUD" utterance-id="14" qud-sub-id="10" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Is it 2WD or 4WD" classification="QUD" utterance-id="14" qud-sub-id="11" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="is it still four wheel drive if i get the 220d engine?" classification="QUD" utterance-id="14" qud-sub-id="12" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Is that with the 220d engine?" classification="QUD" utterance-id="14" qud-sub-id="13" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="is there a 4wd version" classification="QUD" utterance-id="14" qud-sub-id="14" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Is there a different drive in the other models?" classification="QUD" utterance-id="14" qud-sub-id="15" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Is there any differences between the two?" classification="QUD" utterance-id="14" qud-sub-id="16" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="what availability limitations does the 220d engine have?" classification="QUD" utterance-id="14" qud-sub-id="17" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="What drive can I get the 220d engine in" classification="QUD" utterance-id="14" qud-sub-id="18" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="What is included or excluded in the Gran?" classification="QUD" utterance-id="14" qud-sub-id="19" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="What is the availaity on both models?" classification="QUD" utterance-id="14" qud-sub-id="20" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="What other engine options are there?" classification="QUD" utterance-id="14" qud-sub-id="21" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="where can you find the 220d engine" classification="QUD" utterance-id="14" qud-sub-id="22" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="Which model it is available to" classification="QUD" utterance-id="14" qud-sub-id="23" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="With the same engine size?" classification="QUD" utterance-id="14" qud-sub-id="24" rank="2" probability="0.03" >
+		<UNIT utterance-id="14" entropy="4.51">the 220d engine is available only with ‘xDrive’ four-wheel drive</UNIT>
+	</QUD>
+	<QUD string="How do you think sales will be?" classification="QUD" utterance-id="15" qud-sub-id="1" rank="1" probability="0.1" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="What model does BMW expect to be the best seller?" classification="QUD" utterance-id="15" qud-sub-id="2" rank="1" probability="0.1" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="How do BMW expect the four-wheel-drive to perform?" classification="QUD" utterance-id="15" qud-sub-id="3" rank="2" probability="0.07" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Will it sell?" classification="QUD" utterance-id="15" qud-sub-id="4" rank="2" probability="0.07" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Despite being large, how many people want it?" classification="QUD" utterance-id="15" qud-sub-id="5" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Do you see this new seven seater filling a gap in the market?" classification="QUD" utterance-id="15" qud-sub-id="6" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="do you think it will be popular?" classification="QUD" utterance-id="15" qud-sub-id="7" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Do you think it will sell well?" classification="QUD" utterance-id="15" qud-sub-id="8" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="How does BMW foresee the sales performance of this particular model?" classification="QUD" utterance-id="15" qud-sub-id="9" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="How popular do BMW think the Gran Tourer will be?" classification="QUD" utterance-id="15" qud-sub-id="10" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="is the four wheel drive polpular?" classification="QUD" utterance-id="15" qud-sub-id="11" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Is the four wheel driver a good seller" classification="QUD" utterance-id="15" qud-sub-id="12" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="What are BMW hoping in relation to sales of this car?" classification="QUD" utterance-id="15" qud-sub-id="13" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="what are the expectations of the more unusual configuration?" classification="QUD" utterance-id="15" qud-sub-id="14" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="What are your sales predictions for the xDrive model" classification="QUD" utterance-id="15" qud-sub-id="15" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="What does BMW predict?" classification="QUD" utterance-id="15" qud-sub-id="16" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Where will it rank in BMW best sellers?" classification="QUD" utterance-id="15" qud-sub-id="17" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Which in the range is expected to be the most successful" classification="QUD" utterance-id="15" qud-sub-id="18" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Which one is likeliest to be the most popular?" classification="QUD" utterance-id="15" qud-sub-id="19" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Why is this a best seller?" classification="QUD" utterance-id="15" qud-sub-id="20" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Will this car be popular?" classification="QUD" utterance-id="15" qud-sub-id="21" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="would a four wheel drive seven seater model be too niche?" classification="QUD" utterance-id="15" qud-sub-id="22" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="Would you say the Gran Tourer is as good as a four-wheel-drive?" classification="QUD" utterance-id="15" qud-sub-id="23" rank="3" probability="0.03" >
+		<UNIT utterance-id="15" entropy="4.39">While a powerful four-wheel-drive seven-seater might seem like the most niche of offerings, BMW actually predicts this particular variant to be the best seller of the range</UNIT>
+	</QUD>
+	<QUD string="How good is the Gran Tourer at the whole MPV thing?" classification="QUD" utterance-id="18" qud-sub-id="1" rank="1" probability="0.23" >
+		<UNIT utterance-id="16" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="How does this model compare to similar?" classification="QUD" utterance-id="18" qud-sub-id="1" rank="1" probability="0.06" >
+		<UNIT utterance-id="17" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="What are the seats like in comparison to MPVs?" classification="QUD" utterance-id="18" qud-sub-id="1" rank="0" probability="0.06" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="What makes it different than other mpvs?" classification="QUD" utterance-id="18" qud-sub-id="2" rank="0" probability="0.06" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="Are the middle row of seats separate?" classification="QUD" utterance-id="18" qud-sub-id="3" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="Are the middle row seats similar to other MPVs?" classification="QUD" utterance-id="18" qud-sub-id="4" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="Are the seats similar to other MPVS?" classification="QUD" utterance-id="18" qud-sub-id="5" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="Can I move the middle seats?" classification="QUD" utterance-id="18" qud-sub-id="6" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="How are the middle row of seats divided" classification="QUD" utterance-id="18" qud-sub-id="7" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="How are the seats divided compares to usual MPVs?" classification="QUD" utterance-id="18" qud-sub-id="8" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="How are the seats layed out" classification="QUD" utterance-id="18" qud-sub-id="9" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="How does the Gran Tourer perform, in a practical sense, when compared to other MPVs?" classification="QUD" utterance-id="18" qud-sub-id="10" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="how practical is it?" classification="QUD" utterance-id="18" qud-sub-id="11" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="is the gran tourer suitable for an MPV?" classification="QUD" utterance-id="18" qud-sub-id="12" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="Is the seating arrangement standard?" classification="QUD" utterance-id="18" qud-sub-id="13" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="What about the seats?" classification="QUD" utterance-id="18" qud-sub-id="14" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="what are the seat configurations" classification="QUD" utterance-id="18" qud-sub-id="15" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="What happens with the middle row of seats?" classification="QUD" utterance-id="18" qud-sub-id="16" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="what is it like for space?" classification="QUD" utterance-id="18" qud-sub-id="17" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="what is the layout of the middle row of seats like?" classification="QUD" utterance-id="18" qud-sub-id="18" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="what is the middle row of seats like?" classification="QUD" utterance-id="18" qud-sub-id="19" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="What is the positioning of the seating in the back?" classification="QUD" utterance-id="18" qud-sub-id="20" rank="1" probability="0.03" >
+		<UNIT utterance-id="18" entropy="4.13">The middle row of seats isn’t divided into three separate sliding chairs as in some MPVs</UNIT>
+	</QUD>
+	<QUD string="Does the lower bench split into two sliding sections?" classification="QUD" utterance-id="19" qud-sub-id="1" rank="1" probability="0.1" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Are the seats movable?" classification="QUD" utterance-id="19" qud-sub-id="2" rank="2" probability="0.07" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Does the lower bench split into separate sections?" classification="QUD" utterance-id="19" qud-sub-id="3" rank="2" probability="0.07" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="How does the lower bench manouver" classification="QUD" utterance-id="19" qud-sub-id="4" rank="2" probability="0.07" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="what is the lower bench like?" classification="QUD" utterance-id="19" qud-sub-id="5" rank="2" probability="0.07" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Are any of the seats the sliding kind?" classification="QUD" utterance-id="19" qud-sub-id="6" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Are there any other details to be aware of?" classification="QUD" utterance-id="19" qud-sub-id="7" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Are they indvidual seats?" classification="QUD" utterance-id="19" qud-sub-id="8" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="can the configurations be changed" classification="QUD" utterance-id="19" qud-sub-id="9" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Can the seats be adjusted?" classification="QUD" utterance-id="19" qud-sub-id="10" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Can you have an individual seat?" classification="QUD" utterance-id="19" qud-sub-id="11" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="can you split the seating when not needed?" classification="QUD" utterance-id="19" qud-sub-id="12" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Do the other seats divide?" classification="QUD" utterance-id="19" qud-sub-id="13" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="how do the seats configure for moving them?" classification="QUD" utterance-id="19" qud-sub-id="14" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="How good is the Gran Tourer at the whole MPV thing?" classification="QUD" utterance-id="19" qud-sub-id="15" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="How is the lower bench split" classification="QUD" utterance-id="19" qud-sub-id="16" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="How is the middle row of seats arranged?" classification="QUD" utterance-id="19" qud-sub-id="17" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Is the lower bench different?" classification="QUD" utterance-id="19" qud-sub-id="18" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="is the lower bench moveable" classification="QUD" utterance-id="19" qud-sub-id="19" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Is there a difference in seats between other MPVs and this model?" classification="QUD" utterance-id="19" qud-sub-id="20" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="What about the lower bench?" classification="QUD" utterance-id="19" qud-sub-id="21" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="What are the pros and cons of the Gran Tourer at the whole MPV thing?" classification="QUD" utterance-id="19" qud-sub-id="22" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="What is different about the interior of this model?" classification="QUD" utterance-id="19" qud-sub-id="23" rank="3" probability="0.03" >
+		<UNIT utterance-id="19" entropy="4.42">the lower bench does split into two individually sliding sections</UNIT>
+	</QUD>
+	<QUD string="Do the backrests fold down?" classification="QUD" utterance-id="20" qud-sub-id="1" rank="1" probability="0.24" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="How do the backrests fold?" classification="QUD" utterance-id="20" qud-sub-id="2" rank="2" probability="0.17" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="Does the backrest fold down in three segments?" classification="QUD" utterance-id="20" qud-sub-id="3" rank="3" probability="0.07" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="What does the backrests do?" classification="QUD" utterance-id="20" qud-sub-id="4" rank="3" probability="0.07" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="Do the backrests adjust?" classification="QUD" utterance-id="20" qud-sub-id="5" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="do the backrests move" classification="QUD" utterance-id="20" qud-sub-id="6" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="How are the backrests split" classification="QUD" utterance-id="20" qud-sub-id="7" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="how do the back seats adjust?" classification="QUD" utterance-id="20" qud-sub-id="8" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="How do the backrests assist with the arrangement and space?" classification="QUD" utterance-id="20" qud-sub-id="9" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="How do the backrests function?" classification="QUD" utterance-id="20" qud-sub-id="10" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="How good is the Gran Tourer at the whole MPV thing?" classification="QUD" utterance-id="20" qud-sub-id="11" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="How many segments does the back seats have" classification="QUD" utterance-id="20" qud-sub-id="12" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="Is there backrests?" classification="QUD" utterance-id="20" qud-sub-id="13" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="What about the back seats?" classification="QUD" utterance-id="20" qud-sub-id="14" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="What are the backrests like?" classification="QUD" utterance-id="20" qud-sub-id="15" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="What are the pro and cons of the Gran MPV thing?" classification="QUD" utterance-id="20" qud-sub-id="16" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="What is the backrests made of?" classification="QUD" utterance-id="20" qud-sub-id="17" rank="4" probability="0.03" >
+		<UNIT utterance-id="20" entropy="3.64">the backrests into three fold-down segments</UNIT>
+	</QUD>
+	<QUD string="How many child seats can it fit?" classification="QUD" utterance-id="21" qud-sub-id="1" rank="1" probability="0.19" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="Can child seats fit into this model?" classification="QUD" utterance-id="21" qud-sub-id="2" rank="2" probability="0.13" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="Does it support isofix" classification="QUD" utterance-id="21" qud-sub-id="3" rank="3" probability="0.06" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="how can childrens seats be fitted?" classification="QUD" utterance-id="21" qud-sub-id="4" rank="3" probability="0.06" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="How many isofix points arethere?" classification="QUD" utterance-id="21" qud-sub-id="5" rank="3" probability="0.06" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="Is it adapted for children to sit in?" classification="QUD" utterance-id="21" qud-sub-id="6" rank="3" probability="0.06" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="Are child seats available" classification="QUD" utterance-id="21" qud-sub-id="7" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="Are there any Isofix child seats?" classification="QUD" utterance-id="21" qud-sub-id="8" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="Does it uphold child safety guidance on seats?" classification="QUD" utterance-id="21" qud-sub-id="9" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="does this vehicle have the space for small children in car seats?" classification="QUD" utterance-id="21" qud-sub-id="10" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="Have you thought of child passengers?" classification="QUD" utterance-id="21" qud-sub-id="11" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="How big are the seats?" classification="QUD" utterance-id="21" qud-sub-id="12" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="How does it fit car seats?" classification="QUD" utterance-id="21" qud-sub-id="13" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="How good is the Gran Tourer at the whole MPV thing?" classification="QUD" utterance-id="21" qud-sub-id="14" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="How many children can comfortably fit into the seating?" classification="QUD" utterance-id="21" qud-sub-id="15" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="is it child friendly" classification="QUD" utterance-id="21" qud-sub-id="16" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="Is there space for child seats?" classification="QUD" utterance-id="21" qud-sub-id="17" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="what about child seats?" classification="QUD" utterance-id="21" qud-sub-id="18" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="Where do the seats go?" classification="QUD" utterance-id="21" qud-sub-id="19" rank="4" probability="0.03" >
+		<UNIT utterance-id="21" entropy="3.94">Three Isofix child seats can sit side by side in the middle row, with a fourth in the front passenger seat</UNIT>
+	</QUD>
+	<QUD string="Are there fold down tables?" classification="QUD" utterance-id="22" qud-sub-id="1" rank="1" probability="0.19" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Is there a place to eat in the car?" classification="QUD" utterance-id="22" qud-sub-id="2" rank="2" probability="0.06" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="What are the tables for?" classification="QUD" utterance-id="22" qud-sub-id="3" rank="2" probability="0.06" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Are the plastic picnic tables a good feature?" classification="QUD" utterance-id="22" qud-sub-id="4" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Are there any concerns with the car's features?" classification="QUD" utterance-id="22" qud-sub-id="5" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Are there any extra specs for the family?" classification="QUD" utterance-id="22" qud-sub-id="6" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Are there any interesting things about this car?" classification="QUD" utterance-id="22" qud-sub-id="7" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="are there any items that have recieved negative reviews" classification="QUD" utterance-id="22" qud-sub-id="8" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Are there any negatives to the Gran Tourer?" classification="QUD" utterance-id="22" qud-sub-id="9" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Are there any negatives to the seat configuration?" classification="QUD" utterance-id="22" qud-sub-id="10" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Are there other features of the seats to be aware of?" classification="QUD" utterance-id="22" qud-sub-id="11" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Are they of good quality?" classification="QUD" utterance-id="22" qud-sub-id="12" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Can kids enjoy this model?" classification="QUD" utterance-id="22" qud-sub-id="13" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="How durable are the foldable tables" classification="QUD" utterance-id="22" qud-sub-id="14" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="How good is the Gran Tourer at the whole MPV thing?" classification="QUD" utterance-id="22" qud-sub-id="15" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Is it useful?" classification="QUD" utterance-id="22" qud-sub-id="16" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Is the car child friendly" classification="QUD" utterance-id="22" qud-sub-id="17" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="Is there any features of the seats that may not be good?" classification="QUD" utterance-id="22" qud-sub-id="18" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="what are other features of this car" classification="QUD" utterance-id="22" qud-sub-id="19" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="What are the features in the second row?" classification="QUD" utterance-id="22" qud-sub-id="20" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="What are the front seats like" classification="QUD" utterance-id="22" qud-sub-id="21" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="What features are there for convenience of eating?" classification="QUD" utterance-id="22" qud-sub-id="22" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="What happens with A and B?" classification="QUD" utterance-id="22" qud-sub-id="23" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="What is a potential drawback to the design of the seating?" classification="QUD" utterance-id="22" qud-sub-id="24" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+	<QUD string="What was the thinking behind the additional features in the Gran?" classification="QUD" utterance-id="22" qud-sub-id="25" rank="3" probability="0.03" >
+		<UNIT utterance-id="22" entropy="4.39">On the back of the front seats there are fold-down plastic picnic tables, which seemed A) worryingly fragile and B) ideal bongo drums for kids to serenade the driver with</UNIT>
+	</QUD>
+</ROOT>

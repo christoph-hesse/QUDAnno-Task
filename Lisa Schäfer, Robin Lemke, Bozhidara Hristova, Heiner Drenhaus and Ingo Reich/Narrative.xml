@@ -1,0 +1,878 @@
+<ROOT>
+	<QUD string="What did Susie do?" classification="QUD" utterance-id="1" qud-sub-id="1" rank="1" probability="0.37" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="What did Susie do to the teapot?" classification="QUD" utterance-id="1" qud-sub-id="2" rank="2" probability="0.2" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="What did Susie lift?" classification="QUD" utterance-id="1" qud-sub-id="3" rank="3" probability="0.13" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="What did Susie lift the lid of?" classification="QUD" utterance-id="1" qud-sub-id="4" rank="4" probability="0.07" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="Is there anything inside this teapot?" classification="QUD" utterance-id="1" qud-sub-id="5" rank="5" probability="0.03" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="What did Susie do next?" classification="QUD" utterance-id="1" qud-sub-id="6" rank="5" probability="0.03" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="What did Susie do when she found the teapot?" classification="QUD" utterance-id="1" qud-sub-id="7" rank="5" probability="0.03" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="What did Susie do when she sees the teapot?" classification="QUD" utterance-id="1" qud-sub-id="8" rank="5" probability="0.03" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="What did Susie open?" classification="QUD" utterance-id="1" qud-sub-id="9" rank="5" probability="0.03" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="What happened first?" classification="QUD" utterance-id="1" qud-sub-id="10" rank="5" probability="0.03" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="What is the abandoned teapot exactly?" classification="QUD" utterance-id="1" qud-sub-id="11" rank="5" probability="0.03" >
+		<UNIT utterance-id="1" entropy="2.79">Susie lifts the lid of the abandoned teapot</UNIT>
+	</QUD>
+	<QUD string="What did Susie do next?" classification="QUD" utterance-id="2" qud-sub-id="1" rank="1" probability="0.33" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="What does Susie do to the teapot?" classification="QUD" utterance-id="2" qud-sub-id="2" rank="2" probability="0.17" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="What is Susie doing?" classification="QUD" utterance-id="2" qud-sub-id="3" rank="3" probability="0.13" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="What did Susie do to the water?" classification="QUD" utterance-id="2" qud-sub-id="4" rank="4" probability="0.1" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="What is in the teapot?" classification="QUD" utterance-id="2" qud-sub-id="5" rank="5" probability="0.07" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="Is there water in the teapot?" classification="QUD" utterance-id="2" qud-sub-id="6" rank="6" probability="0.03" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="What happened after she removed the lid?" classification="QUD" utterance-id="2" qud-sub-id="7" rank="6" probability="0.03" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="What other action does Susie do?" classification="QUD" utterance-id="2" qud-sub-id="8" rank="6" probability="0.03" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="Whether the teapot is empty or not?" classification="QUD" utterance-id="2" qud-sub-id="9" rank="6" probability="0.03" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="Why did Susie open the teapot?" classification="QUD" utterance-id="2" qud-sub-id="10" rank="6" probability="0.03" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="Why is Susie swirling the water?" classification="QUD" utterance-id="2" qud-sub-id="11" rank="6" probability="0.03" >
+		<UNIT utterance-id="2" entropy="2.92">swirls the water</UNIT>
+	</QUD>
+	<QUD string="What happens after she swirls the water?" classification="QUD" utterance-id="3" qud-sub-id="1" rank="1" probability="0.27" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="What happened to the teabag?" classification="QUD" utterance-id="3" qud-sub-id="2" rank="2" probability="0.23" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="What is inside the teapot?" classification="QUD" utterance-id="3" qud-sub-id="3" rank="3" probability="0.13" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="Is there a teabag in the teapot?" classification="QUD" utterance-id="3" qud-sub-id="4" rank="4" probability="0.1" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="Has a tea been brewed in this teapot?" classification="QUD" utterance-id="3" qud-sub-id="5" rank="5" probability="0.03" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="Is Susie making some kind of tea?" classification="QUD" utterance-id="3" qud-sub-id="6" rank="5" probability="0.03" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="What does Susie’s action cause?" classification="QUD" utterance-id="3" qud-sub-id="7" rank="5" probability="0.03" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="What else was inside the teapot?" classification="QUD" utterance-id="3" qud-sub-id="8" rank="5" probability="0.03" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="What happens in the teapot?" classification="QUD" utterance-id="3" qud-sub-id="9" rank="5" probability="0.03" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="What moved inside the teapot?" classification="QUD" utterance-id="3" qud-sub-id="10" rank="5" probability="0.03" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="What the affect of swirling the teapot has on the teabag and water inside?" classification="QUD" utterance-id="3" qud-sub-id="11" rank="5" probability="0.03" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="Where was the teabag?" classification="QUD" utterance-id="3" qud-sub-id="12" rank="5" probability="0.03" >
+		<UNIT utterance-id="3" entropy="3.03">The teabag sloshes against the sides</UNIT>
+	</QUD>
+	<QUD string="How did the tea taste?" classification="QUD" utterance-id="4" qud-sub-id="1" rank="1" probability="0.37" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="What is the tea like?" classification="QUD" utterance-id="4" qud-sub-id="2" rank="2" probability="0.3" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="Did Susie drink the tea?" classification="QUD" utterance-id="4" qud-sub-id="3" rank="3" probability="0.03" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="How long has water been in this abandoned teapot?" classification="QUD" utterance-id="4" qud-sub-id="4" rank="3" probability="0.03" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="How long the teapot has been abandoned for?" classification="QUD" utterance-id="4" qud-sub-id="5" rank="3" probability="0.03" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="Is Susie aware of the drink she is making?" classification="QUD" utterance-id="4" qud-sub-id="6" rank="3" probability="0.03" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="Is the tea freshly made?" classification="QUD" utterance-id="4" qud-sub-id="7" rank="3" probability="0.03" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="Was the tea cold or hot?" classification="QUD" utterance-id="4" qud-sub-id="8" rank="3" probability="0.03" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="What has happened to the inside of the teapot?" classification="QUD" utterance-id="4" qud-sub-id="9" rank="3" probability="0.03" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="What Susie thinks of the tea when she drinks it?" classification="QUD" utterance-id="4" qud-sub-id="10" rank="3" probability="0.03" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="What temperature was the tea?" classification="QUD" utterance-id="4" qud-sub-id="11" rank="3" probability="0.03" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="Why did Susie swirl the water?" classification="QUD" utterance-id="4" qud-sub-id="12" rank="3" probability="0.03" >
+		<UNIT utterance-id="4" entropy="2.69">The tea is cold and bitter</UNIT>
+	</QUD>
+	<QUD string="What did Susie think of the tea?" classification="QUD" utterance-id="5" qud-sub-id="1" rank="1" probability="0.21" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="Did Susie mind?" classification="QUD" utterance-id="5" qud-sub-id="2" rank="2" probability="0.11" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="How did Susie feel about the tea?" classification="QUD" utterance-id="5" qud-sub-id="3" rank="2" probability="0.11" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="How does Susie feel about the tea being cold and bitter?" classification="QUD" utterance-id="5" qud-sub-id="4" rank="2" probability="0.11" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="Did she like it?" classification="QUD" utterance-id="5" qud-sub-id="5" rank="3" probability="0.07" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="Does Susie like cold tea?" classification="QUD" utterance-id="5" qud-sub-id="6" rank="3" probability="0.07" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="How does Susie like her tea?" classification="QUD" utterance-id="5" qud-sub-id="7" rank="3" probability="0.07" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="Does Susie like bitter tea?" classification="QUD" utterance-id="5" qud-sub-id="8" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="Does Susie mind how her tea is?" classification="QUD" utterance-id="5" qud-sub-id="9" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="How long has tea been in the teapot?" classification="QUD" utterance-id="5" qud-sub-id="10" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="Is Susie okay?" classification="QUD" utterance-id="5" qud-sub-id="11" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="Was Susie thirsty?" classification="QUD" utterance-id="5" qud-sub-id="12" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="What did Susie think?" classification="QUD" utterance-id="5" qud-sub-id="13" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="What does Susie think about the teapot’s condition?" classification="QUD" utterance-id="5" qud-sub-id="14" rank="4" probability="0.04" >
+		<UNIT utterance-id="5" entropy="3.53">Susie doesn’t mind</UNIT>
+	</QUD>
+	<QUD string="Why did Susie not mind?" classification="QUD" utterance-id="6" qud-sub-id="1" rank="1" probability="0.21" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Why doesn’t Susie mind the cold and bitter tea?" classification="QUD" utterance-id="6" qud-sub-id="2" rank="2" probability="0.1" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="What does Mrs Simpson do with teabags?" classification="QUD" utterance-id="6" qud-sub-id="3" rank="3" probability="0.07" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Who is Mrs Simpson?" classification="QUD" utterance-id="6" qud-sub-id="4" rank="3" probability="0.07" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="And why was that?" classification="QUD" utterance-id="6" qud-sub-id="5" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Does Mrs Simpson not have enough money for further teabags?" classification="QUD" utterance-id="6" qud-sub-id="6" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Does Mrs Simpson reuse teabags?" classification="QUD" utterance-id="6" qud-sub-id="7" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Does Susie own property or does she rent out property ?" classification="QUD" utterance-id="6" qud-sub-id="8" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="How does Susie’s landlady like her tea?" classification="QUD" utterance-id="6" qud-sub-id="9" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="How does Susie’s landlady use teabags?" classification="QUD" utterance-id="6" qud-sub-id="10" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Is the tea edible?" classification="QUD" utterance-id="6" qud-sub-id="11" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="What did Mrs Simpson do with the teabag?" classification="QUD" utterance-id="6" qud-sub-id="12" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="What does her landlady do?" classification="QUD" utterance-id="6" qud-sub-id="13" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="What does Susie’s landlady do with used teabags?" classification="QUD" utterance-id="6" qud-sub-id="14" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="What happens to the teabags?" classification="QUD" utterance-id="6" qud-sub-id="15" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Who does Susie know?" classification="QUD" utterance-id="6" qud-sub-id="16" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Who is Susie’s landlady?" classification="QUD" utterance-id="6" qud-sub-id="17" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Who was making the tea for?" classification="QUD" utterance-id="6" qud-sub-id="18" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Why does the tea taste that way?" classification="QUD" utterance-id="6" qud-sub-id="19" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="Why is the tea bitter?" classification="QUD" utterance-id="6" qud-sub-id="20" rank="4" probability="0.03" >
+		<UNIT utterance-id="6" entropy="4.02">her landlady, Mrs Simpson, normally reuses tea bags</UNIT>
+	</QUD>
+	<QUD string="What does the tea taste like when Susie gets home?" classification="QUD" utterance-id="7" qud-sub-id="1" rank="1" probability="0.18" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="What does the tea usually taste like?" classification="QUD" utterance-id="7" qud-sub-id="2" rank="1" probability="0.18" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="What does the tea taste like?" classification="QUD" utterance-id="7" qud-sub-id="3" rank="2" probability="0.14" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="How does the tea taste after some passage of time ?" classification="QUD" utterance-id="7" qud-sub-id="4" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="How does the tea taste when Mrs Simpson makes it?" classification="QUD" utterance-id="7" qud-sub-id="5" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="How does the teabag taste?" classification="QUD" utterance-id="7" qud-sub-id="6" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="How is Susie’s tea at home?" classification="QUD" utterance-id="7" qud-sub-id="7" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="What does Susie drink when she gets home?" classification="QUD" utterance-id="7" qud-sub-id="8" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="What does Susie think the tea tastes like?" classification="QUD" utterance-id="7" qud-sub-id="9" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="What happens when Susie gets home?" classification="QUD" utterance-id="7" qud-sub-id="10" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="What is the tea like when Susie gets home?" classification="QUD" utterance-id="7" qud-sub-id="11" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="When does Susie like to have tea?" classification="QUD" utterance-id="7" qud-sub-id="12" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="Who made the tea?" classification="QUD" utterance-id="7" qud-sub-id="13" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="Why did Susie leave the teabag in the teapot?" classification="QUD" utterance-id="7" qud-sub-id="14" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="Why does Susie not mind about the teapot?" classification="QUD" utterance-id="7" qud-sub-id="15" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="Why does Susie not mind cold and bitter tea?" classification="QUD" utterance-id="7" qud-sub-id="16" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="Why is Susie drinking it still if it tastes this way?" classification="QUD" utterance-id="7" qud-sub-id="17" rank="3" probability="0.04" >
+		<UNIT utterance-id="7" entropy="3.69">Usually, by the time Susie gets home, the tea mostly tastes of chlorine</UNIT>
+	</QUD>
+	<QUD string="What does Susie do when she checks Mrs Simpson’s calendar?" classification="QUD" utterance-id="8" qud-sub-id="1" rank="1" probability="0.24" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What did Susie do next?" classification="QUD" utterance-id="8" qud-sub-id="2" rank="2" probability="0.14" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What did Susie do when she got home?" classification="QUD" utterance-id="8" qud-sub-id="3" rank="3" probability="0.1" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What is Susie doing?" classification="QUD" utterance-id="8" qud-sub-id="4" rank="4" probability="0.07" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="Does Susie also care for Mrs Simpson?" classification="QUD" utterance-id="8" qud-sub-id="5" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="Does Susie wear a cap to work?" classification="QUD" utterance-id="8" qud-sub-id="6" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="Does Susie work?" classification="QUD" utterance-id="8" qud-sub-id="7" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="Does the elastic bother her?" classification="QUD" utterance-id="8" qud-sub-id="8" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="How does she feel?" classification="QUD" utterance-id="8" qud-sub-id="9" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What did Mrs Simpson do to the calendar?" classification="QUD" utterance-id="8" qud-sub-id="10" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What did Susie do after drinking her tea?" classification="QUD" utterance-id="8" qud-sub-id="11" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What does Susie do during the day?" classification="QUD" utterance-id="8" qud-sub-id="12" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What is on the calendar?" classification="QUD" utterance-id="8" qud-sub-id="13" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What is Susie wearing?" classification="QUD" utterance-id="8" qud-sub-id="14" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What was Susie doing as she rubbed her head?" classification="QUD" utterance-id="8" qud-sub-id="15" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What was Susie rubbing when she read the calendar...?" classification="QUD" utterance-id="8" qud-sub-id="16" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="Where does Susie rub?" classification="QUD" utterance-id="8" qud-sub-id="17" rank="5" probability="0.03" >
+		<UNIT utterance-id="8" entropy="3.67">As she checks Mrs Simpson’s calendar, Susie rubs the place where the elastic cap from work scrunched all day</UNIT>
+	</QUD>
+	<QUD string="What is on the calendar?" classification="QUD" utterance-id="9" qud-sub-id="1" rank="1" probability="0.25" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="What does Susie see on the calendar?" classification="QUD" utterance-id="9" qud-sub-id="2" rank="2" probability="0.12" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="What happened next?" classification="QUD" utterance-id="9" qud-sub-id="3" rank="3" probability="0.08" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="What is happening?" classification="QUD" utterance-id="9" qud-sub-id="4" rank="3" probability="0.08" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="What is Mrs Simpson doing?" classification="QUD" utterance-id="9" qud-sub-id="5" rank="3" probability="0.08" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="Is there any upcoming play?" classification="QUD" utterance-id="9" qud-sub-id="6" rank="4" probability="0.04" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="What diary entry does Susie spot on Mrs Simpson’s calendar?" classification="QUD" utterance-id="9" qud-sub-id="7" rank="4" probability="0.04" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="What does she do for work?" classification="QUD" utterance-id="9" qud-sub-id="8" rank="4" probability="0.04" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="What else does Susie do?" classification="QUD" utterance-id="9" qud-sub-id="9" rank="4" probability="0.04" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="What else happened ?" classification="QUD" utterance-id="9" qud-sub-id="10" rank="4" probability="0.04" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="What happened during work that day?" classification="QUD" utterance-id="9" qud-sub-id="11" rank="4" probability="0.04" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="Where has this text come from?" classification="QUD" utterance-id="9" qud-sub-id="12" rank="4" probability="0.04" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="Where is Mrs Simpson?" classification="QUD" utterance-id="9" qud-sub-id="13" rank="4" probability="0.04" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="Why is Susie interested in Mrs Simpson’s calendar?" classification="QUD" utterance-id="9" qud-sub-id="14" rank="4" probability="0.04" >
+		<UNIT utterance-id="9" entropy="3.49">A play</UNIT>
+	</QUD>
+	<QUD string="How does the skin feel?" classification="QUD" utterance-id="10" qud-sub-id="1" rank="1" probability="0.62" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="How did the cap from work affect Susie’s skin?" classification="QUD" utterance-id="10" qud-sub-id="2" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="How does Susie’s head feel?" classification="QUD" utterance-id="10" qud-sub-id="3" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="How does Susie’s skin feel after work?" classification="QUD" utterance-id="10" qud-sub-id="4" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="How is Susie physically feeling?" classification="QUD" utterance-id="10" qud-sub-id="5" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="How Susie’s cap makes her skin feel?" classification="QUD" utterance-id="10" qud-sub-id="6" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="Is Susie having a bath after a long working day?" classification="QUD" utterance-id="10" qud-sub-id="7" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="Then what happened?" classification="QUD" utterance-id="10" qud-sub-id="8" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="What did the calendar feel like to the touch?" classification="QUD" utterance-id="10" qud-sub-id="9" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="What does Susie feel when she rubs her skin?" classification="QUD" utterance-id="10" qud-sub-id="10" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="What does the place feel like where Susie is rubbing?" classification="QUD" utterance-id="10" qud-sub-id="11" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="Why is Susie rubbing her head?" classification="QUD" utterance-id="10" qud-sub-id="12" rank="2" probability="0.03" >
+		<UNIT utterance-id="10" entropy="2.27">The skin feels puckered and soft, like white and wrinkly fingertips in the bath</UNIT>
+	</QUD>
+	<QUD string="What did Susie’s mother used to do?" classification="QUD" utterance-id="11" qud-sub-id="1" rank="1" probability="0.21" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="Where did her mother used to read?" classification="QUD" utterance-id="11" qud-sub-id="2" rank="2" probability="0.07" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="Did Susie’s mother read to her as a kid?" classification="QUD" utterance-id="11" qud-sub-id="3" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="Does Susie have a good relationship with her parents?" classification="QUD" utterance-id="11" qud-sub-id="4" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="Does Susie have an emotional connection to the house?" classification="QUD" utterance-id="11" qud-sub-id="5" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="Does Susie have parents?" classification="QUD" utterance-id="11" qud-sub-id="6" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="How does Susie remember the tub?" classification="QUD" utterance-id="11" qud-sub-id="7" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="How was Susie’s relationship with her mother ?" classification="QUD" utterance-id="11" qud-sub-id="8" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="Is it her mother and father’s old house?" classification="QUD" utterance-id="11" qud-sub-id="9" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What did her mother do for her?" classification="QUD" utterance-id="11" qud-sub-id="10" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What did her mother used to read?" classification="QUD" utterance-id="11" qud-sub-id="11" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What did Susie remember?" classification="QUD" utterance-id="11" qud-sub-id="12" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What does it remind her of?" classification="QUD" utterance-id="11" qud-sub-id="13" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What is Susie’s history?" classification="QUD" utterance-id="11" qud-sub-id="14" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What memories of childhood does Susie have?" classification="QUD" utterance-id="11" qud-sub-id="15" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What memory does Susie think of?" classification="QUD" utterance-id="11" qud-sub-id="16" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What was on Susie’s mind?" classification="QUD" utterance-id="11" qud-sub-id="17" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What was one of Susie’s mother’s hobbies?" classification="QUD" utterance-id="11" qud-sub-id="18" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What was Susie’s childhood like?" classification="QUD" utterance-id="11" qud-sub-id="19" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What were Susie’s memories of her mother?" classification="QUD" utterance-id="11" qud-sub-id="20" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What were Susie’s parents like?" classification="QUD" utterance-id="11" qud-sub-id="21" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="Where did Susie’s bath come from?" classification="QUD" utterance-id="11" qud-sub-id="22" rank="3" probability="0.04" >
+		<UNIT utterance-id="11" entropy="4.18">Her mother used to read beside the clawfoot bathtub her father imported from England</UNIT>
+	</QUD>
+	<QUD string="What would Susie do?" classification="QUD" utterance-id="12" qud-sub-id="1" rank="1" probability="0.46" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="Was Susie always called Susie?" classification="QUD" utterance-id="12" qud-sub-id="2" rank="2" probability="0.07" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="What did Susie do with her chin?" classification="QUD" utterance-id="12" qud-sub-id="3" rank="2" probability="0.07" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="Has Susie changed her name?" classification="QUD" utterance-id="12" qud-sub-id="4" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="How did Susie sit in the tub to hear stories?" classification="QUD" utterance-id="12" qud-sub-id="5" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="Is Susie a nickname?" classification="QUD" utterance-id="12" qud-sub-id="6" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="Is Susie human?" classification="QUD" utterance-id="12" qud-sub-id="7" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="Is Susie taking a walk down memory lane today?" classification="QUD" utterance-id="12" qud-sub-id="8" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="What did Susie do while her mother read?" classification="QUD" utterance-id="12" qud-sub-id="9" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="What else does Susie remember from this memory?" classification="QUD" utterance-id="12" qud-sub-id="10" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="What happened to Susie when she was younger?" classification="QUD" utterance-id="12" qud-sub-id="11" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="What is Susie’s origin story?" classification="QUD" utterance-id="12" qud-sub-id="12" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="What is Susie’s past life like?" classification="QUD" utterance-id="12" qud-sub-id="13" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="What was Susie like when she was younger?" classification="QUD" utterance-id="12" qud-sub-id="14" rank="3" probability="0.04" >
+		<UNIT utterance-id="12" entropy="2.95">Susie—who wasn’t a Susie at all then—would tuck her chin over the edge of the tub</UNIT>
+	</QUD>
+	<QUD string="What did Susie do next?" classification="QUD" utterance-id="13" qud-sub-id="1" rank="1" probability="0.28" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="What did Susie do when her mother read?" classification="QUD" utterance-id="13" qud-sub-id="2" rank="2" probability="0.14" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="What else did she do?" classification="QUD" utterance-id="13" qud-sub-id="3" rank="2" probability="0.14" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="What did Susie do as she tucked her chin over the edge of the tub?" classification="QUD" utterance-id="13" qud-sub-id="4" rank="3" probability="0.07" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="What does Susie listen to?" classification="QUD" utterance-id="13" qud-sub-id="5" rank="3" probability="0.07" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="Can Susie pay attention?" classification="QUD" utterance-id="13" qud-sub-id="6" rank="4" probability="0.03" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="Did Susie concentrate when listening to her mother’s stories ?" classification="QUD" utterance-id="13" qud-sub-id="7" rank="4" probability="0.03" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="Did Susie’s mother ever read to her in the bathtub?" classification="QUD" utterance-id="13" qud-sub-id="8" rank="4" probability="0.03" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="What did Susie used to do in the tub?" classification="QUD" utterance-id="13" qud-sub-id="9" rank="4" probability="0.03" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="What does Susie do when she’s younger?" classification="QUD" utterance-id="13" qud-sub-id="10" rank="4" probability="0.03" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="What happened to Susie as a child?" classification="QUD" utterance-id="13" qud-sub-id="11" rank="4" probability="0.03" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="What were Susie’s parents like?" classification="QUD" utterance-id="13" qud-sub-id="12" rank="4" probability="0.03" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="Who would she listen to?" classification="QUD" utterance-id="13" qud-sub-id="13" rank="4" probability="0.03" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="Would Susie listen?" classification="QUD" utterance-id="13" qud-sub-id="14" rank="4" probability="0.03" >
+		<UNIT utterance-id="13" entropy="3.34">listen</UNIT>
+	</QUD>
+	<QUD string="What would happen to the water?" classification="QUD" utterance-id="14" qud-sub-id="1" rank="1" probability="0.37" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="How long would Susie stay in the bath?" classification="QUD" utterance-id="14" qud-sub-id="2" rank="2" probability="0.17" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="What happened?" classification="QUD" utterance-id="14" qud-sub-id="3" rank="3" probability="0.1" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="How was the water?" classification="QUD" utterance-id="14" qud-sub-id="4" rank="4" probability="0.07" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="What temperature was the bath?" classification="QUD" utterance-id="14" qud-sub-id="5" rank="4" probability="0.07" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="Did Susie spend a long time in the bath when she was young?" classification="QUD" utterance-id="14" qud-sub-id="6" rank="5" probability="0.03" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="Did Susie stay in the bath too long as a child?" classification="QUD" utterance-id="14" qud-sub-id="7" rank="5" probability="0.03" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="How did it feel?" classification="QUD" utterance-id="14" qud-sub-id="8" rank="5" probability="0.03" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="How long would she listen for?" classification="QUD" utterance-id="14" qud-sub-id="9" rank="5" probability="0.03" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="Was Susie in it too long?" classification="QUD" utterance-id="14" qud-sub-id="10" rank="5" probability="0.03" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="What was Susie’s childhood like?" classification="QUD" utterance-id="14" qud-sub-id="11" rank="5" probability="0.03" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="Why would the water go cold?" classification="QUD" utterance-id="14" qud-sub-id="12" rank="5" probability="0.03" >
+		<UNIT utterance-id="14" entropy="2.96">The water would go cold</UNIT>
+	</QUD>
+	<QUD string="What would happen to her skin?" classification="QUD" utterance-id="15" qud-sub-id="1" rank="1" probability="0.46" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="How did Susie’s skin feel?" classification="QUD" utterance-id="15" qud-sub-id="2" rank="2" probability="0.07" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="And her skin?" classification="QUD" utterance-id="15" qud-sub-id="3" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="How did Susie feel?" classification="QUD" utterance-id="15" qud-sub-id="4" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="How was her skin?" classification="QUD" utterance-id="15" qud-sub-id="5" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="Was it because she loved bath time?" classification="QUD" utterance-id="15" qud-sub-id="6" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="What are Susie’s childhood memories?" classification="QUD" utterance-id="15" qud-sub-id="7" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="What did the water do to her skin?" classification="QUD" utterance-id="15" qud-sub-id="8" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="What does Susie remember about books in her childhood?" classification="QUD" utterance-id="15" qud-sub-id="9" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="What happened in the bath?" classification="QUD" utterance-id="15" qud-sub-id="10" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="What is the effect of the water going cold?" classification="QUD" utterance-id="15" qud-sub-id="11" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="What type of skin?" classification="QUD" utterance-id="15" qud-sub-id="12" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="What was the texture of her skin after spending all that time in the bath?" classification="QUD" utterance-id="15" qud-sub-id="13" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="What would happen if she stayed in the bath for too long?" classification="QUD" utterance-id="15" qud-sub-id="14" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="What would happen to Susie’s skin in the bath?" classification="QUD" utterance-id="15" qud-sub-id="15" rank="3" probability="0.04" >
+		<UNIT utterance-id="15" entropy="3.02">Her skin would loose</UNIT>
+	</QUD>
+	<QUD string="What else happened to her skin?" classification="QUD" utterance-id="16" qud-sub-id="1" rank="1" probability="0.27" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="What would happen to Susie’s skin?" classification="QUD" utterance-id="16" qud-sub-id="2" rank="2" probability="0.12" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="And what else?" classification="QUD" utterance-id="16" qud-sub-id="3" rank="3" probability="0.08" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="How did her skin feel?" classification="QUD" utterance-id="16" qud-sub-id="4" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="How did Susie’s skin feel after it had loosened from her bath?" classification="QUD" utterance-id="16" qud-sub-id="5" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="How long did she stay in the tub for?" classification="QUD" utterance-id="16" qud-sub-id="6" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="Is Susie missing the past?" classification="QUD" utterance-id="16" qud-sub-id="7" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="What did Susie’s skin look like?" classification="QUD" utterance-id="16" qud-sub-id="8" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="What else could long baths do to her skin?" classification="QUD" utterance-id="16" qud-sub-id="9" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="What else would happen if she stayed in the bath for too long?" classification="QUD" utterance-id="16" qud-sub-id="10" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="What else would happen to Susie’s skin in the bath?" classification="QUD" utterance-id="16" qud-sub-id="11" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="What memories does Susie have or bath time?" classification="QUD" utterance-id="16" qud-sub-id="12" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="What other effects of the cold water were there?" classification="QUD" utterance-id="16" qud-sub-id="13" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="What would happen to her skin in the bath?" classification="QUD" utterance-id="16" qud-sub-id="14" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="What would Susie’s skin do when she stayed in the bath for too long?" classification="QUD" utterance-id="16" qud-sub-id="15" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="What would the water do to her skin?" classification="QUD" utterance-id="16" qud-sub-id="16" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="Would her skin crinkle?" classification="QUD" utterance-id="16" qud-sub-id="17" rank="4" probability="0.04" >
+		<UNIT utterance-id="16" entropy="3.68">crinkle</UNIT>
+	</QUD>
+	<QUD string="Who does Mrs Simpson make fresh tea for?" classification="QUD" utterance-id="17" qud-sub-id="1" rank="1" probability="0.5" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="What does Mrs Simpson do for Mr Johnson?" classification="QUD" utterance-id="17" qud-sub-id="2" rank="2" probability="0.07" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="Does Mrs Simpson ever make fresh tea?" classification="QUD" utterance-id="17" qud-sub-id="3" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="Does Mrs Simpson make tea?" classification="QUD" utterance-id="17" qud-sub-id="4" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="How does her landlady treat Susie’s neighbours?" classification="QUD" utterance-id="17" qud-sub-id="5" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="How does Mrs Simpson make tea for her other tenants ?" classification="QUD" utterance-id="17" qud-sub-id="6" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="How often does Susie make tea for her neighbour?" classification="QUD" utterance-id="17" qud-sub-id="7" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="What does Mrs Simpson do for the neighbours?" classification="QUD" utterance-id="17" qud-sub-id="8" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="What is Susie’s landlord like?" classification="QUD" utterance-id="17" qud-sub-id="9" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="When does Mrs Simpson make fresh tea?" classification="QUD" utterance-id="17" qud-sub-id="10" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="Who is Mrs Simpson’s neighbour?" classification="QUD" utterance-id="17" qud-sub-id="11" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="Who is Susie’s neighbour?" classification="QUD" utterance-id="17" qud-sub-id="12" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="Why are the teabags always used before Susie gets home?" classification="QUD" utterance-id="17" qud-sub-id="13" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="Why does Mrs Simpson not make fresh tea for Susie?" classification="QUD" utterance-id="17" qud-sub-id="14" rank="3" probability="0.04" >
+		<UNIT utterance-id="17" entropy="2.83">Mrs Simpson only makes fresh tea for Mr Johnson next door</UNIT>
+	</QUD>
+	<QUD string="What does the cup contain?" classification="QUD" utterance-id="18" qud-sub-id="1" rank="1" probability="0.43" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="What else does one of the cups contain?" classification="QUD" utterance-id="18" qud-sub-id="2" rank="2" probability="0.07" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="Does Mr Johnson drink alcohol?" classification="QUD" utterance-id="18" qud-sub-id="3" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="Does Mr Johnson drink whisky?" classification="QUD" utterance-id="18" qud-sub-id="4" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="Does Mrs Simpson ever put whiskey in the tea she makes?" classification="QUD" utterance-id="18" qud-sub-id="5" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="Does Mrs Simpson think highly of Mr Johnson?" classification="QUD" utterance-id="18" qud-sub-id="6" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="Does the tea contain alcohol?" classification="QUD" utterance-id="18" qud-sub-id="7" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="Was there anything else added to the tea?" classification="QUD" utterance-id="18" qud-sub-id="8" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="Was there anything in the cups?" classification="QUD" utterance-id="18" qud-sub-id="9" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="What does Mrs Simpson put in her tea ?" classification="QUD" utterance-id="18" qud-sub-id="10" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="What does Mrs Simpson put in Mr Johnson’s tea?" classification="QUD" utterance-id="18" qud-sub-id="11" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="What else does Mrs Simpson and Mr Johnson drink together?" classification="QUD" utterance-id="18" qud-sub-id="12" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="What goes into the cup?" classification="QUD" utterance-id="18" qud-sub-id="13" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="What is the cup also used for?" classification="QUD" utterance-id="18" qud-sub-id="14" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="What’s in the tea?" classification="QUD" utterance-id="18" qud-sub-id="15" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="Who is the whiskey for?" classification="QUD" utterance-id="18" qud-sub-id="16" rank="3" probability="0.04" >
+		<UNIT utterance-id="18" entropy="3.2">One cup still contains a moss-smoke slick of whiskey</UNIT>
+	</QUD>
+	<QUD string="What does Susie do to the cup?" classification="QUD" utterance-id="19" qud-sub-id="1" rank="1" probability="0.21" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="What does Susie wipe the rim of the cup with?" classification="QUD" utterance-id="19" qud-sub-id="2" rank="2" probability="0.18" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="How does Susie clean the cup?" classification="QUD" utterance-id="19" qud-sub-id="3" rank="3" probability="0.11" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="What does Susie do next?" classification="QUD" utterance-id="19" qud-sub-id="4" rank="4" probability="0.07" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="Did Susie clean the cup?" classification="QUD" utterance-id="19" qud-sub-id="5" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="Does Susie drink the tea?" classification="QUD" utterance-id="19" qud-sub-id="6" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="Does Susie like cleanliness?" classification="QUD" utterance-id="19" qud-sub-id="7" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="Does Susie like whiskey?" classification="QUD" utterance-id="19" qud-sub-id="8" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="Is Susie wearing a shirt or jumper?" classification="QUD" utterance-id="19" qud-sub-id="9" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="Is the cup clean?" classification="QUD" utterance-id="19" qud-sub-id="10" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="What does she do before she hands it over?" classification="QUD" utterance-id="19" qud-sub-id="11" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="What does Susie do to the rim of the cup?" classification="QUD" utterance-id="19" qud-sub-id="12" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="What does Susie do with her sleeve?" classification="QUD" utterance-id="19" qud-sub-id="13" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="What does Susie wipe the cup with?" classification="QUD" utterance-id="19" qud-sub-id="14" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="What does Susie wipe with her sleeve?" classification="QUD" utterance-id="19" qud-sub-id="15" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="Why has Susie got a wet sleeve?" classification="QUD" utterance-id="19" qud-sub-id="16" rank="5" probability="0.04" >
+		<UNIT utterance-id="19" entropy="3.6">Susie wipes the rim of the cup with her sleeve</UNIT>
+	</QUD>
+	<QUD string="What does Susie do next?" classification="QUD" utterance-id="20" qud-sub-id="1" rank="1" probability="0.54" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="Does Susie drink the tea?" classification="QUD" utterance-id="20" qud-sub-id="2" rank="2" probability="0.11" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="Did Susie make tea for herself?" classification="QUD" utterance-id="20" qud-sub-id="3" rank="3" probability="0.04" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="Does she like the tea ?" classification="QUD" utterance-id="20" qud-sub-id="4" rank="3" probability="0.04" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="Does Susie like to drink the tea she’s been made?" classification="QUD" utterance-id="20" qud-sub-id="5" rank="3" probability="0.04" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="Does Susie prefer tea or whiskey?" classification="QUD" utterance-id="20" qud-sub-id="6" rank="3" probability="0.04" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="Does Susie want tea?" classification="QUD" utterance-id="20" qud-sub-id="7" rank="3" probability="0.04" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="Was the tea for her?" classification="QUD" utterance-id="20" qud-sub-id="8" rank="3" probability="0.04" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="What does Susie do with the clean cup?" classification="QUD" utterance-id="20" qud-sub-id="9" rank="3" probability="0.04" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="What does Susie fill the cup with?" classification="QUD" utterance-id="20" qud-sub-id="10" rank="3" probability="0.04" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="Who does Susie pour tea for?" classification="QUD" utterance-id="20" qud-sub-id="11" rank="3" probability="0.04" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+	<QUD string="Why is Susie having more cold chlorine tea?" classification="QUD" utterance-id="20" qud-sub-id="12" rank="3" probability="0.04" >
+		<UNIT utterance-id="20" entropy="2.54">pours herself some tea</UNIT>
+	</QUD>
+</ROOT>
